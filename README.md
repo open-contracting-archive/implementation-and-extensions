@@ -1,4 +1,4 @@
-# Open Contracting Data Standard - Implementation and Extensions
+# OCDS Implementation and Extensions
 
 The [Open Contracting Data Standard](http://standard.open-contracting.org) is designed to allow publication of comprehensive information on contracting processes.
 
