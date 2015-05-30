@@ -3,7 +3,7 @@
 The [Open Contracting Data Standard](http://standard.open-contracting.org) is designed to allow publication of comprehensive information on contracting processes.
 
 ## Implementation support
-Publishing using OCDS often involve decisions about how to map from your existing data to the Open Contracting Data Standard. You can [use the issue tracker](issues) to share your questions about data modelling and mapping for open discussion.
+Publishing using OCDS often involve decisions about how to map from your existing data to the Open Contracting Data Standard. You can [use the issue tracker](https://github.com/open-contracting/implementation-and-extensions/issues) to share your questions about data modelling and mapping for open discussion.
 
 The OCDS Helpdesk monitor and respond to these issues - but they are also open to wider community input (which is encouraged!). 
 
