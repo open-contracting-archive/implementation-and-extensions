@@ -1,11 +1,11 @@
 [
     {
         "op": "add",
-        "path": "release-schema.json/definitions/Item/activityLocation",
+        "path": "release-schema.json/definitions/Item/deliveryLocation",
         "value": {
             "type": "object",
-            "title": "Activity Location",
-            "description": "The location where activity related to this tender, contract or license is to be carried out. A location can be described by either a geometry (point location, line or polygon), or a gazetteer entry, or both.",
+            "title": "Delivery Location",
+            "description": "The location where activity related to this tender, contract or license will be delivered, or will take place. A location can be described by either a geometry (point location, line or polygon), or a gazetteer entry, or both.",
             "properties": {
                 "description":{
                     "description":"A name or description of this location. This might include the name(s) of the location(s), or might provide a human readable description of the location to be covered. This description may be used in a user-interface.",
