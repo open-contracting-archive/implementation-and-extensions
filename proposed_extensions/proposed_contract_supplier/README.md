@@ -17,6 +17,7 @@ Version 1.0 of the standard enforces this by omitting ```suppliers``` from the `
 
 However, in procurement processes where one award names many suppliers, and then separate contracts are made with each supplier, this limits the ability of the standard to model details of amounts awarded to each specific supplier without creating many duplicate award records. 
 
+See also standard development issues [103](https://github.com/open-contracting/standard/issues/103) and [117](https://github.com/open-contracting/standard/issues/117)
 
 **Advantages of adding ```suppliers``` to ```contract```**
 
