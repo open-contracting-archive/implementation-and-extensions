@@ -1,7 +1,7 @@
 [
     {
         "op": "add",
-        "path": "release-schema.json/definitions/Item/deliveryLocation",
+        "path": "/definitions/Item/properties/deliveryLocation",
         "value": {
             "type": "object",
             "title": "Delivery Location",
@@ -52,7 +52,7 @@
     },
     {
         "op": "add",
-        "path": "release-schema.json/definitions/Item/deliveryAddress",
+        "path": "/definitions/Item/properties/deliveryAddress",
         "value": { "$ref": "#/definitions/Address" }
     }
     
