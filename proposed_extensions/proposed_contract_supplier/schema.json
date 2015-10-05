@@ -1,0 +1,13 @@
+[
+    {
+        "op": "add",
+        "path": "/definitions/Contract/properties/suppliers",
+        "value": {
+                "description": "The supplier(s) who are party to this contract.",
+                "type": "array",
+                "items": { "$ref": "#/definitions/Organization" },
+                "uniqueItems": true,
+                "mergeStrategy": "ocdsVersion"
+        }
+    }
+]
