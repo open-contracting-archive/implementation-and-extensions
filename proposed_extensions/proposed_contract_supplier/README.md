@@ -1,4 +1,4 @@
-Suppliers in contract object
+# Suppliers in contract object
 
 This extension proposes adding a suppliers array to the contract object. 
 
